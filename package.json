@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "desafio-01": "file:",
+    "phosphor-react": "^1.4.1",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
