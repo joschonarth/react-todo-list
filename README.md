@@ -8,6 +8,8 @@
   <img src="https://img.shields.io/github/languages/count/joschonarth/todo-list?style=for-the-badge&color=4ea8d3&labelColor=1C1E26" alt="languages-count">
 </p>
 
+![todo-list](https://github.com/user-attachments/assets/3e255a5f-26c3-4c67-8692-3e3177aa66d6)
+
 ## 📖 Visão Geral
 
 **ToDo List** é uma aplicação web de gerenciamento de tarefas, desenvolvida com **React**, focada em oferecer uma experiência simples, fluida e intuitiva para organização do dia a dia. Nela, o usuário pode criar, deletar, marcar como concluídas e acompanhar o progresso de suas tarefas diárias.
