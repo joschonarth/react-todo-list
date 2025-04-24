@@ -3,9 +3,9 @@
 
 <p align="center"><i>Aplicação de gerenciamento de tarefas criada com React, TypeScript e Vite.</i>
   <br/><br/>
-  <img src="https://img.shields.io/github/last-commit/joschonarth/todo-list?style=for-the-badge&color=4ea8d3&labelColor=1C1E26" alt="last-commit">
-  <img src="https://img.shields.io/github/languages/top/joschonarth/todo-list?style=for-the-badge&color=5e60ce&labelColor=1C1E26" alt="top-language">
-  <img src="https://img.shields.io/github/languages/count/joschonarth/todo-list?style=for-the-badge&color=4ea8d3&labelColor=1C1E26" alt="languages-count">
+  <img src="https://img.shields.io/github/last-commit/joschonarth/react-todo-list?style=for-the-badge&color=4ea8d3&labelColor=1C1E26" alt="last-commit">
+  <img src="https://img.shields.io/github/languages/top/joschonarth/react-todo-list?style=for-the-badge&color=5e60ce&labelColor=1C1E26" alt="top-language">
+  <img src="https://img.shields.io/github/languages/count/joschonarth/react-todo-list?style=for-the-badge&color=4ea8d3&labelColor=1C1E26" alt="languages-count">
 </p>
 
 ![todo-list](https://github.com/user-attachments/assets/3e255a5f-26c3-4c67-8692-3e3177aa66d6)
@@ -66,6 +66,12 @@ npm run dev
 ```
 
 Abra o navegador e acesse: [http://localhost:5173](http://localhost:5173)
+
+## 🌐 Deploy
+
+Clique no link abaixo para testar a aplicação online:
+
+👉 [https://react-todo-list-joschonarth-projects.vercel.app/](https://react-todo-list-joschonarth-projects.vercel.app/)
 
 ## 🤝 Contribuições
 
